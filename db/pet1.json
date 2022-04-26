@@ -1,0 +1,18 @@
+{
+  "id": 199222,
+  "category": {
+    "id": 0,
+    "name": "ASXD32"
+  },
+  "name": "Steve",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20220322,
+      "name": "data"
+    }
+  ],
+  "status": "available"
+}

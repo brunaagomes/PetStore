@@ -14,5 +14,5 @@ dependencies {
     testImplementation group: 'io.rest-assured', name: 'rest-assured', version: '4.4.0'}
 
 test {
-
+    useTestNG()
 }
